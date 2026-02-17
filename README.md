@@ -17,6 +17,6 @@ also you can run a server for your php file using apache and type it's path afte
 ```
 localhost/htdocs/index.php
 ```
-**hint** We can type index.php or not
+**Hint** We can type index.php or not
 
 
