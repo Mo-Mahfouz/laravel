@@ -19,7 +19,7 @@ localhost/htdocs/index.php
 ```
 **Hint:** We can type index.php or not
 
-**to create controler from cmd we use at project folder we use: **
+To create controler from cmd we use at project folder we use: 
 ```
 php artisan make:controler
 ```
