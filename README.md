@@ -1,4 +1,11 @@
 # laravel
+
+### how to create new laravel project 
+select a location prefered in 
 ```
-Look! You can see my backticks.
+C:\xampp\htdocs
+```
+then open cmd.... then type 
+```
+laravel new example-app
 ```
