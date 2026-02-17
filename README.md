@@ -9,8 +9,9 @@ then open cmd.... then type
 ```
 laravel new example-app
 ```
-Run a localHost server using this command 
+Run a localHost server For your laravel project using this command  
 ```
 php artisan serve
 ```
+also you can run a server for your php file using apache
 
