@@ -1,11 +1,16 @@
 # laravel
 
 ### how to create new laravel project 
-select a location prefered in 
-```bash
+Select path: prefered in 
+```
 C:\xampp\htdocs
 ```
 then open cmd.... then type 
-```bash
+```
 laravel new example-app
 ```
+Run a localHost server using this command 
+```
+php artisan serve
+```
+
