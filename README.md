@@ -23,3 +23,12 @@ To create controler from cmd we use at project folder we use:
 ```
 php artisan make:controler
 ```
+We should create namespace into the class to use the same path in the php file
+namespacing :
+```
+namespace App\Http\Controllers\TestController;
+```
+# include = :
+```
+use  App\Http\Controllers\TestController;
+```
