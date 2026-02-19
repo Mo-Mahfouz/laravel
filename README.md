@@ -25,11 +25,11 @@ php artisan make:controler
 ```
 We should create namespace into the class to use the same path in the php file
 namespacing :
-```
+```php
 namespace App\Http\Controllers;
 ```
 include = :
-```
+```php
 use  App\Http\Controllers\TestController;
 ```
 ### To understand the construction of the code we should know Design pattern and MVC pattern
