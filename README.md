@@ -60,3 +60,7 @@ https://github.com/amaelftah/codezilla-blog
 3- Define view that contains list of posts
 4- Remove any static HTML data from the view
 
+##Look we can use this to print and terminate the program 
+```php
+@dd(Variable_name)
+```
